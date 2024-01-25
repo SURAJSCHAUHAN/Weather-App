@@ -13,17 +13,29 @@
 }
 .box{
   color: white;
+  padding: 100px;
 }
 .inputData input{
   border: none;
-  padding: 20px;
-  margin-left: 10px;
+  padding: 10px;
+  padding-left: 10px;
+  margin-left: 5px;
   margin-top: 20px;
   margin-bottom: 20px;
   background-color: transparent;
   text-align: center;
   color: white;
   font-size: large;
+}.info{
+  color: #282c34;
+  font-size: larger;
+}
+.btn-go{
+border: 1.5px solid black;
+border-radius: 5px;
+background-color: transparent;
+padding:  5px 10px;
+color: #282c34;
 }
 @media screen and (min-width :1000px){
 .App{
