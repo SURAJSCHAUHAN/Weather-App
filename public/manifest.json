@@ -1,7 +1,7 @@
 
 {
   "manifest_version": 3,
-  "name":"Weather App",
+  "name":"Weather App By Suraj",
   "version":"1.0",
   "description":"Displays the weather",
   "permissions":["activeTab"],
